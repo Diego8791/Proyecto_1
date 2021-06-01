@@ -1,0 +1,56 @@
+.title-style{
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.precio-style{
+    color: #d12f77;
+    font-size: 20px;
+}
+
+.btn-primary{
+    background-color: #8ac344;
+    
+}
+
+.btn:active{
+     background-color: #b6d68e;
+}
+
+.btn:hover{
+    background-color:#b6d68e;
+}
+
+.card:hover{
+    box-shadow: rgb(230, 228, 228) 0px 0px 2px 2px;
+}
+
+.card:active{
+    box-shadow: rgb(230, 228, 228) 0px 0px 2px 2px;
+}
+
+.card-title:active{
+    text-decoration: underline;
+    color: black;
+}
+
+.card-title:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.color-blue{
+    color: #1a3e92;
+    text-decoration: none;
+}
+
+.color-blue:hover{
+    color: #1a3e92;
+    text-decoration: underline;
+}
+
+.color-blue:active{
+    color: #1a3e92;
+    text-decoration: underline;
+}
